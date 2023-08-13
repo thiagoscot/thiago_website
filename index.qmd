@@ -1,6 +1,6 @@
 ---
-title: "Drew Dimmery"
-description: "Methods in Causal Inference, Data Science and Social Science"
+title: "Thiago Scot"
+#description: "Methods in Causal Inference, Data Science and Social Science"
 page-layout: full
 image: /social-card.jpg
 resources:
