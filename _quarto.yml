@@ -3,8 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "thiago_website"
+  title: "Thiago Scot"
+  description: "Personal website of Thiago Scot"
+  #site-url: https://ddimmery.com
+  repo-url: https://github.com/thiagoscot/thiagoscot_website
+  #google-analytics: "G-Y7YLFF5F90"
+  open-graph: true
   navbar:
+    background: dark
+    foreground: light
     left:
       - href: index.qmd
         text: Home
@@ -17,4 +24,3 @@ format:
     toc: true
 
 editor: visual
-
